@@ -6,6 +6,7 @@
 
 An intelligent embedded waste management system featuring real-time fill monitoring, fire detection, and automated alerts. Built for ATmega328P microcontroller (Arduino Uno compatible) with complete Proteus simulation support.
 
+
 ---
 
 ## 📋 Table of Contents
@@ -741,9 +742,9 @@ GROUP-30 Team Members.
 ## 🎓 Academic Information
 
 **Course**: Embedded Systems Design  
-**Semester**: Fall 2024  
+**Semester**: Sem 1,2025. 
 **Grade Target**: 100%  
-**Submission Date**: [Your Deadline]
+**Submission Date**:28th Oct 2025.
 
 ### Assessment Criteria Met
 
