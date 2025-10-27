@@ -648,38 +648,6 @@ void load_log_from_eeprom(LogEntry_t* entry, uint8_t index) {
 }
 ```
 
----
-
-## 📚 Project Structure
-
-```
-ecobin-smart-waste/
-├── README.md                    # This file
-├── LICENSE                      # MIT License
-├── .gitignore                   # Git ignore rules
-├── docs/
-│   ├── report.pdf              # Academic report (6 pages)
-│   ├── pseudocode.pdf          # Algorithm documentation
-│   ├── wiring_diagrams/        # Connection diagrams
-│   └── user_manual.pdf         # End-user guide
-├── firmware/
-│   ├── ecobin_firmware.c       # Main firmware (2300+ lines)
-│   ├── ecobin_firmware.h       # Header file
-│   ├── Makefile                # Build automation
-│   └── ecobin_firmware.atsln   # Atmel Studio solution
-├── simulation/
-│   ├── ecobin_proteus.pdsprj   # Proteus project file
-│   └── test_results/           # Simulation screenshots
-├── hardware/
-│   ├── breadboard_layout.png   # Physical assembly guide
-│   ├── schematic.pdf           # Circuit schematic
-│   └── bom.csv                 # Bill of materials
-└── tests/
-    ├── unit_tests/             # Component test code
-    └── integration_tests/      # System test procedures
-```
-
----
 
 ## 🤝 Contributing
 
@@ -730,31 +698,20 @@ furnished to do so, subject to the following conditions:
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**[Your Name]**
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-- University: [Your University Name]
-- Course: Embedded Systems Coursework 2024
+GROUP-30 Team Members.
+- University: Makerere University
+- Course: Embedded Systems Coursework 2025
 
 ### Supervisor
 
-**[Supervisor Name]**
-- Department of Computer Engineering
-- Email: supervisor@university.edu
+**Dr.Nsabagwa Mary**
+- Department of Networks
+- School of Computing and Informatics Technology.
+- College of Computing and Information Sciences.
 
----
 
-## 🙏 Acknowledgments
-
-- **HC-SR04 Library**: Based on AVR ultrasonic examples
-- **HD44780 LCD Driver**: Adapted from AVR-GCC LCD library
-- **Matrix Keypad**: Scanning algorithm from embedded forums
-- **Proteus Libraries**: Arduino simulation components
-- **Course Instructors**: For technical guidance and support
-
----
 
 ## 📖 References
 
